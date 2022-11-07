@@ -1,1 +1,4 @@
 # UTS-BAHASA-PEMROGRAMAN
+Aji Pangestu
+20210801117
+Teknik Informatika
